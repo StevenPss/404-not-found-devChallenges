@@ -23,6 +23,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![GitHub][github-shield]][github-url]
+[![YouTube][youtube-shield]][youtube-url]
 
 
 
@@ -348,7 +349,9 @@ Project Link: [https://github.com/StevenPss/404-not-found-devChallenges](https:/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
+[youtube-shield]: https://img.shields.io/badge/-YouTube-black.svg?style=for-the-badge&logo=youtube&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/stevenselolo/
 [twitter-url]: https://twitter.com/StevenSelolo
 [github-url]: https://github.com/StevenPss
+[youtube-url]: https://www.youtube.com/channel/UCdBRy_dEjhzWgLfvj9GtYNw
 [product-screenshot]: /images/screenshot.png
