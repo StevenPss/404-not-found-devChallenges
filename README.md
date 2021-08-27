@@ -344,7 +344,7 @@ Project Link: [https://github.com/StevenPss/404-not-found-devChallenges](https:/
 [issues-shield]: https://img.shields.io/github/issues/StevenPss/404-not-found-devChallenges.svg?style=for-the-badge
 [issues-url]: https://github.com/StevenPss/404-not-found-devChallenges/issues
 [license-shield]: https://img.shields.io/github/license/StevenPss/404-not-found-devChallenges.svg?style=for-the-badge
-[license-url]: https://github.com/StevenPss/404-not-found-devChallenges/blob/main/LICENSE.md
+[license-url]: https://github.com/StevenPss/404-not-found-devChallenges/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
