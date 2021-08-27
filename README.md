@@ -46,7 +46,7 @@
     .
     <a href="https://stevenpss-404-not-found-devchallenges.netlify.app/">Solution</a>
     ·
-    <a href="https://github.comStevenPss/404-not-found-devChallenges/issues">Report Bug</a>
+    <a href="https://github.com/StevenPss/404-not-found-devChallenges/issues">Report Bug</a>
     ·
     <a href="https://github.com/StevenPss/404-not-found-devChallenges/issues">Request Feature</a>
   </p>  
