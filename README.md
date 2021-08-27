@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/StevenPss/404-not-found-devChallenges">
-    <img src="images/devChallenges.png" alt="Logo" width="80" height="80">
+    <img src="images/devchallenges.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">404 Not Found</h3>
